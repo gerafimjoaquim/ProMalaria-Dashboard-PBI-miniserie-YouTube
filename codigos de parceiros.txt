@@ -1,0 +1,12 @@
+parceiro,país
+Malaroff,MZ
+Random Health,US
+HayaHaya,MZ
+Adio,CN
+Rapid,MZ
+BLUMA,CN
+Manja,AO
+Wora Wora,CN
+Úrsula,BR
+Bronx Union, US
+Lindixon,CN
